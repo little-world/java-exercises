@@ -10,7 +10,7 @@ public class Collections {
         ints.add(2);
         ints.add(3);
 
-        Arrays.asList(1,2,3);
+        Arrays.asList();
 
         for (int a : ints) {
             System.out.println(a);
