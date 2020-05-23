@@ -1,3 +1,4 @@
+
 // declare a variable
 int x;
 
@@ -16,7 +17,7 @@ String s = "hello";
 double d = x;
 int x = (int) d;
 
-// operator
+// operators
 int a=4, b=3, c;
 c = a + b;   // 7
 c = a - b;   // 1
