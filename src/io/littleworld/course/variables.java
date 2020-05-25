@@ -35,4 +35,3 @@ c = a / b;   // 1
 c = a % b;   // 1
 # the basic math operators
 
-
