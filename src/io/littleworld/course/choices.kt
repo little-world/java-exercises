@@ -4,12 +4,6 @@ if (x < 3)
   println("small")
 #// if x is smaller then 3 print 'small'
 
-/// if with block
-if (x < 3) {
-  println("small")
-}
-#// if x is smaller then 3 print 'small'
-
 /// if
 if (x < 3)
   println("small")
@@ -31,3 +25,17 @@ var name = when(x) {
   else -> "?"
 }
 #// pattern matching
+
+/// while loop
+var x = 0
+while(x < 3){
+  println(x)
+  x++
+}
+#// as in Java
+
+/// for loop
+for (x in 0..3) {
+  println(x)
+}
+#// prints a range [0..3]; with 3
