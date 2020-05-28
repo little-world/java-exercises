@@ -20,7 +20,7 @@ var l: Long = 100
 var d: Double = 3.14
 var b: Boolean = true
 var s: String = "hello"
-#//  in Kotlin all numbers are classes
+#// in Kotlin all numbers are classes
 
 /// typecast
 d = x.toDouble()
