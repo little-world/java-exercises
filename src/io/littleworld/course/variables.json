@@ -19,7 +19,7 @@
   },
   {
     "id": 2,
-    "type": "multiple",
+    "type": "multi",
     "text": "that the question",
     "code": "hello, world",
     "answers": [
