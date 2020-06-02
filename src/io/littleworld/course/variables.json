@@ -47,7 +47,7 @@
   },
   {
     "id": 3,
-    "type": "tap",
+    "type": "drag",
     "text": "that the question",
     "code": "hello, $world",
     "answers": [{
