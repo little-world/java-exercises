@@ -58,7 +58,7 @@
   },
   {
     "id": 4,
-    "type": "text",
+    "type": "edit",
     "text": "that the question",
     "code": "hello, $world",
     "answers": [{
