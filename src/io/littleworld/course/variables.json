@@ -16,55 +16,5 @@
         "valid": false
       }
     ]
-  },
-  {
-    "id": 2,
-    "type": "multiple",
-    "text": "that the question",
-    "code": "hello, world",
-    "answers": [
-      {
-        "id": 1,
-        "text": "first answer",
-        "valid": true
-      },
-      {
-        "id": 2,
-        "text": "second answer",
-        "valid": false
-      },
-      {
-        "id": 3,
-        "text": "second answer",
-        "valid": false
-      },
-      {
-        "id": 4,
-        "text": "second answer",
-        "valid": false
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "type": "tap",
-    "text": "that the question",
-    "code": "hello, $world",
-    "answers": [{
-      "id": 1,
-      "text": "first answer",
-      "valid": true
-    }]
-  },
-  {
-    "id": 4,
-    "type": "text",
-    "text": "that the question",
-    "code": "hello, $world",
-    "answers": [{
-      "id": 1,
-      "text": "first answer",
-      "valid": true
-    }]
   }
 ]
