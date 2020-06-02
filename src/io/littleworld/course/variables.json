@@ -50,13 +50,21 @@
     "type": "tap",
     "text": "that the question",
     "code": "hello, $world",
-    "answers": []
+    "answers": [{
+      "id": 1,
+      "text": "first answer",
+      "valid": true
+    }]
   },
   {
     "id": 4,
     "type": "text",
     "text": "that the question",
     "code": "hello, $world",
-    "answers": []
+    "answers": [{
+      "id": 1,
+      "text": "first answer",
+      "valid": true
+    }]
   }
 ]
